@@ -30,4 +30,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir-ecom&show_icons=true&locale=en&layout=compact" alt="zakir-ecom" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakir-ecom&" alt="zakir-ecom" /></p>
+To display the GitHub streak stats for the user "Zakirhassan," you can use the following HTML:
+
+```html
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakirhassan" alt="Zakirhassan's GitHub streak" />
+</p>
+```
+
+This will center the image and show the GitHub streak stats for the user "Zakirhassan." 
