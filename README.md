@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir-ecom&show_icons=true&locale=en&layout=compact" alt="zakir-ecom" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakir-ecom&" alt="zakir-ecom" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zakirhassan&" alt="zakir-ecom" /></p>
