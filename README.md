@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm I'm Mohd Zakir Hassan</h1>
+<h1 align="center">Hi 👋, I'm Mohd Zakir Hassan</h1>
 <h3 align="center">From Figma Fantasy to Code Symphony: React Mastery and Data Engineering Wizardry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakirhassan&label=Profile%20views&color=0e75b6&style=flat" alt="zakirhassan" /> </p>
